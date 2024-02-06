@@ -1,4 +1,4 @@
-# git-scraper-ns-storingen
-Storingen API
+# git-scraper-de-woningzoeker
+Woningen API
 
-[View results](https://flatgithub.com/lassebenni/git-scraper-ns-storingen/blob/main/storingen.json)
+[View results](https://flatgithub.com/lassebenni/dewoningzoeker/blob/main/woningen.json)
