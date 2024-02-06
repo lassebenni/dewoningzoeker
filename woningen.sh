@@ -2,7 +2,6 @@ curl --location 'https://dewoningzoekerapi.hexia.io/api/v1/actueel-aanbod?limit=
 --header 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0' \
 --header 'Accept: application/json, text/plain, */*' \
 --header 'Accept-Language: en-US,en;q=0.5' \
---header 'Accept-Encoding: gzip, deflate, br' \
 --header 'Content-Type: application/json; charset=utf-8' \
 --header 'X-Requested-With: XMLHttpRequest' \
 --header 'Origin: https://www.dewoningzoeker.nl' \
